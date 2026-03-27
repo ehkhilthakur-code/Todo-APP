@@ -1,0 +1,26 @@
+#taskInput{
+    padding:8px;
+    margin-right:10px;
+}
+
+#addTaskBtn{
+    padding:8px 12px;
+    background:#2564eb;
+    color: white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+#taskList{
+    margin-top:15px;
+}
+
+#taskList li{
+    margin:8px 0;
+}
+
+.completed{
+    text-decoration: line-through;
+    opacity: 0.6;
+}
